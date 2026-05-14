@@ -1,14 +1,3 @@
-"""
-engine.py
-=========
-Game engine: turn order, minimax with alpha-beta pruning
-and memoization, single-move evaluation.
-
-Usage:
-  from engine import build_turn_order, minimax_hint, eval_move
-"""
-
-
 # ============================================================
 #  TURN ORDER
 # ============================================================
